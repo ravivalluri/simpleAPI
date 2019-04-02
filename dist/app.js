@@ -5,7 +5,6 @@ const bodyParser = require("body-parser");
 const crmRoutes_1 = require("./routes/crmRoutes");
 const mongoose = require("mongoose");
 class App {
-    // public mongoUrl: string = "mongodb://dalenguyen:123123@localhost:27017/CRMdb";
     constructor() {
         this.app = express();
         this.routePrv = new crmRoutes_1.Routes();
