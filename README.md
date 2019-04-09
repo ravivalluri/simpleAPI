@@ -64,5 +64,3 @@ Send GET request to http://localhost:3000/contact/
 The default URL is: _https://localhost:3000_
 
 The key and cert in the config folder is for testing purpose only. You should generate your own.
-
-_Reference from [Lynda.com](https://www.lynda.com/Node-js-tutorials/Next-steps/633869/671263-4.html)_
